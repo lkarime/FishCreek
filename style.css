@@ -6,6 +6,7 @@ body {
 
 h1 {
   line-height: 200%;
+  text-align: center;
 }
 
 nav {
@@ -22,3 +23,5 @@ nav {
 footer {
   font-size: .7em;
 }
+
+img { text align: center}
